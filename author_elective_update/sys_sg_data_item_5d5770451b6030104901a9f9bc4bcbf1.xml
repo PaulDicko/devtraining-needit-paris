@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>For filtering on specific requested people  </description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Specified Requested for</name>
+        <query_condition table="x_58872_needit_needit">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 02:38:59</sys_created_on>
+        <sys_id>5d5770451b6030104901a9f9bc4bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specified Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_data_item_5d5770451b6030104901a9f9bc4bcbf1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 02:38:59</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=5d5770451b6030104901a9f9bc4bcbf1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7835e545dbdf2090ad8dd7c8f496190e</instance_id>
+        <instance_name>dev109676</instance_name>
+        <name>sys_sg_data_item_5d5770451b6030104901a9f9bc4bcbf1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>For filtering on specific requested people  </description><group_by/><instance_relative_url_qc/><name>Specified Requested for</name><query_condition table="x_58872_needit_needit">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-03 02:38:59</sys_created_on><sys_id>5d5770451b6030104901a9f9bc4bcbf1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Specified Requested for</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_data_item_5d5770451b6030104901a9f9bc4bcbf1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-03 02:38:59</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=5d5770451b6030104901a9f9bc4bcbf1"/></record_update>]]></payload>
+        <payload_hash>-1065135700</payload_hash>
+        <record_name>Specified Requested for</record_name>
+        <reverted_from/>
+        <source>b20df4701b2430104901a9f9bc4bcb41</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 02:38:59</sys_created_on>
+        <sys_id>9d573c851b6030104901a9f9bc4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179cfbcfaae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 02:38:59</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>d5573c85636030100f3c2dde50ba3bf7</update_guid>
+        <update_guid_history>d5573c85636030100f3c2dde50ba3bf7:-1065135700</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-03 02:45:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>91c9318b568a4f8eb6a16f789cbaca84</sys_id>
+        <sys_metadata>5d5770451b6030104901a9f9bc4bcbf1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specified Requested for</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_5d5770451b6030104901a9f9bc4bcbf1</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_5d5770451b6030104901a9f9bc4bcbf1">9d573c851b6030104901a9f9bc4bcbf7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-03 02:45:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
